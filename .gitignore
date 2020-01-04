@@ -200,7 +200,10 @@ fabric.properties
 *.iml
 modules.xml
 .idea/misc.xml
+<<<<<<< HEAD
 *.ipr
+=======
+>>>>>>> cecc5cb7ee23e1f1b255442623918d047538351c
 
 # Sonarlint plugin
 .idea/sonarlint
@@ -283,11 +286,15 @@ tags
 .vim
 
 ### VisualStudioCode ###
+<<<<<<< HEAD
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
+=======
+.vscode/
+>>>>>>> cecc5cb7ee23e1f1b255442623918d047538351c
 
 ### VisualStudioCode Patch ###
 # Ignore all local history of files
